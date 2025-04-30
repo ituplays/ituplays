@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Itu</h1>
-<h3 align="center">Your Friendly Neighborhood Hacker</h3>
+## Hi, I'm Your Friendly Neighborhood Hacker
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+Builder of tools. Breaker of bugs.  
+Sharing scripts, writeups, and raw study notes.
+
+🔧 Welcome to the multiverse — a place for tools, experiments, and digital curiosities.  
+Everything here is open, evolving, and made to learn (or break) things.
+
+> Stay curious. Script often. Hack smart.
